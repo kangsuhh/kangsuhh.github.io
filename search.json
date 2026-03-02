@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
+    "text": "Hello! My name is Raye, a masters student studying Business Analytics at the Paul Merage School of Business, University of California, Irvine. I am passionate about data science and its applications in solving real-world problems. With a background in computer science and business analytics, I have developed a strong foundation in data analysis, machine learning, and statistical modeling."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,12 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Welcome!",
+    "section": "Projects",
+    "text": "Projects\n\nMy First Project\nA placeholder project; click through to see details."
   }
 ]
