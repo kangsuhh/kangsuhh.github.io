@@ -6,10 +6,10 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/rychiangg/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/kangsuhh
 ---
 
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+Hello! My name is Raye, a masters student studying Business Analytics at the Paul Merage School of Business, University of California, Irvine. I am passionate about data science and its applications in solving real-world problems. With a background in computer science and business analytics, I have developed a strong foundation in data analysis, machine learning, and statistical modeling.

@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: my-first-project/index.qmd
+        text: "My First Project"
 
 format:
   html:
